@@ -2,7 +2,7 @@
 
 This is the repo fir Random Feature Masking (RFM).
 
-![Random Feature Maksing](./random feature masking.png)
+![Random Feature Maksing](./random_feature_masking.png)
 
 ![Performance of RFM](./performance.png)
 
